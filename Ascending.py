@@ -4,4 +4,4 @@ numbers = list(map(int, input("Enter the array elements separated by spaces: ").
 
 numbers.sort(reverse=True)
 
-print("Sorted array in descending order:", numbers) 
+print("Sorted array in descending order:", numbers)
